@@ -1,0 +1,13 @@
+git init
+git add filename
+git commit -m filename
+git status
+git restore filename
+ git remote add origin https://github.com/Rahulsharma0007/github_for_devops.git
+ git push origin master
+git remote -v
+git push origin master
+git remote set-url origin https://"your token should be here"@github.com/Rahulsharma0007/github_for_devops.git
+    git remote -v
+   git push origin master
+ 
