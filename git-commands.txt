@@ -10,4 +10,6 @@ git push origin master
 git remote set-url origin https://"your token should be here"@github.com/Rahulsharma0007/github_for_devops.git
     git remote -v
    git push origin master
+
+   git 
  
